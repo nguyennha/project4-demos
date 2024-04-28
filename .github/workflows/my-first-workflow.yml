@@ -17,7 +17,7 @@ on:
 
   # Scheduled trigger at 5:00 AM UTC, Monday through Friday
   schedule:
-    - cron: '0 23:13 * * 7'
+    - cron: 0 23:17 * * 7'
 
 jobs:
   build:
