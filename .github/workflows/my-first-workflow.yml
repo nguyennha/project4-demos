@@ -16,8 +16,8 @@ on:
       - main
 
   # Scheduled trigger at 5:00 AM UTC, Monday through Friday
-schedule:
-  - cron: '30 23 * * 0'
+  schedule:
+    - cron: '34 23 * * 0'
    
 
 jobs:
