@@ -18,7 +18,7 @@ on:
 
   # Scheduled trigger at 5:00 AM UTC, Monday through Friday
   schedule: 
-    - cron: '25 7 * * 1'
+    - cron: '32 7 * * 1'
 
 # Jobs defined in the workflow
 jobs:
